@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Student Management Project**
+
 
 - 💬 Ask me about **frontend or backend in Web Development**
 
