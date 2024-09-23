@@ -5,7 +5,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **Student Management Project**
+
 
 - 🌱 I’m currently learning **Django**
 
