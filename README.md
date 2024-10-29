@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Firebase**
 
 
 
