@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently building **Scatch ecommerce**
 
 
 
