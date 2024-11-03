@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **MERN**
 
 
 
