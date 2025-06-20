@@ -7,11 +7,10 @@
 
 
 
-- 🌱 I’m currently building **Scatch ecommerce**
 
 
 
-- 💬 Ask me about **frontend or backend in Web Development**
+- 💬 Ask me about **frontend or backend in Web Development/Cyber Security/Data Analyst**
 
 - 📫 How to reach me **jaisabhishek834@gmail.com** or **https://abhi25-y9q4.vercel.app/**
 
