@@ -22,7 +22,7 @@ I'm a Fullstack Developer, SDE Intern, and Tech Enthusiast!
   <br>
   👯 Looking to collaborate with fellow developers and contribute to open-source projects.
   <br>
-  💬 Ask me anything on <a href="https://github.com/abhijaiswal2522002/issues" title="Issues">GitHub Issues</a>
+  💬 Ask me anything on <a href="[https://github.com/abhijaiswal2522002/issues](https://github.com/Abhijaiswal2522002/Abhijaiswal2522002/issues)" title="Issues">GitHub Issues</a>
   <br>
   📫 Reach me at: 
   <br>
