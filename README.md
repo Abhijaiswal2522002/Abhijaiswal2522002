@@ -84,15 +84,3 @@ I'm a Fullstack Developer, SDE Intern, and Tech Enthusiast!
 
 <hr>
 
-<h2 align="center">👨‍💻 Featured Repositories</h2>
-
-<div align="center">
-  <a href="https://github.com/abhijaiswal2522002/MedRoute" title="MedRoute - Fullstack Medicine Delivery Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijaiswal2522002&repo=MedRoute&theme=react&border_radius=10" height="115" /></a>
-  <a href="https://github.com/abhijaiswal2522002/SkillSwap" title="SkillSwap - Skill Exchange Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijaiswal2522002&repo=SkillSwap&theme=react&border_radius=10" height="115" /></a>
-  <a href="https://github.com/abhijaiswal2522002/Dcoder" title="Dcoder - AI Startup Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijaiswal2522002&repo=Dcoder&theme=react&border_radius=10" height="115" /></a>
-</div>
-
-<br><br>
-<h4 align="center">
-  <a href="https://github.com/abhijaiswal2522002?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
