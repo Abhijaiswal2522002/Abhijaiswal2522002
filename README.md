@@ -74,13 +74,4 @@ I'm a Fullstack Developer, SDE Intern, and Tech Enthusiast!
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop)
 
-<hr>
-
-<h2 align="center">🐍 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijaiswal2522002&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijaiswal2522002&layout=compact&theme=react" />
-</p>
-
-<hr>
 
